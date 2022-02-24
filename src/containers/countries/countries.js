@@ -119,10 +119,10 @@ export default class CountriesDetails extends Component {
 
                     <input type="text" placeholder="Enter Country Name" onChange={this.searchCountry}/>
 
-                    <select className="sortBy" onChange={this.ChangeSortValue}>
-                        <option>Highest</option>
-                        <option>Lowest</option>
-                    </select>
+//                     <select className="sortBy" onChange={this.ChangeSortValue}>
+//                         <option>Highest</option>
+//                         <option>Lowest</option>
+//                     </select>
 
                 </div>   
                 
